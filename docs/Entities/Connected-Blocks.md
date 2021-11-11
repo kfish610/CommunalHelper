@@ -1,0 +1,4 @@
+
+*   **Connected Dream Block** - Dream blocks that when placed such that they overlap, will form continuous regions. The _"feather mode"_ option allows the player to control their direction of movement while traveling through the block, the _"refill"_ will determine the number of dashes to give the player when exiting the dream block, and the _"one use"_ option will cause the dream block to shatter upon exit.
+
+*   **Connected Zip Mover**, **Move Block** and **Swap Block**, **Connected Solid Extension** - They act like their corresponding vanilla version, but they can have any shape, simply by placing **Connected Solid Extensions** so that they touch or overlap, and are tiled automatically. They are reskinnable. Since 1.9.0, the _"collidable"_ option has been added, and allows you to place uncollidable solid extensions (you will go through them), but still connected the entire solid.

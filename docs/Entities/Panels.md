@@ -1,0 +1,2 @@
+*   **Dream Tunnel Entry** - A panel that can be attached to any solid that allows the player to Dream Tunnel through it.
+*   **Sound Surface Panel** - A panel that placed on solids that changes the sound that the player makes when climbing or walking on it.
